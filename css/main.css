@@ -6,7 +6,7 @@ html
 }
 body
 {
-	margin: 0;
+	margin: 10px;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary
 {
@@ -185,7 +185,7 @@ td,th
 body
 {
 	color: #444;
-	font-family: Cambria, Georgia, serif;
+	font-family: Calibri;
 	line-height: 1.5;
 	margin: 1em auto;
 	max-width: 40em;
